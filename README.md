@@ -2,7 +2,7 @@
 
 Student Names: Qurb E Muhammad Syed (101281787), Uday Arya (101268848)
 
-The name of our new revised system is ChillaX. We aim to implement a simplified version of relaX using [LANGUAGE].
+The name of our new revised system is ChillaX. We aim to implement a simplified version of relaX using Python.
 
 Our system includes a parser that reads definitions of relations in text form, and then performs a conversion into a suitable data structure.
 
